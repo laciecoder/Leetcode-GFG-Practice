@@ -1,6 +1,7 @@
 class Solution {
 public:
-    bool bs(int n, int maxVal, vector<vector<int>>& queries, int mid){
+    bool bs(vector<int>& nums, vector<vector<int>>& queries, int mid){
+        int n = nums.size();
         vector<int> prefix(n + 1, 0);
         bool ans = true;
         for(int i = 0; i < mid; i++){
@@ -8,10 +9,10 @@ public:
             prefix[start] += maxi;
             prefix[end + 1] -= maxi;
         }
-        ans = prefix[0] >= maxVal;
+        ans = prefix[0] >= nums[0];
         for(int j = 1; j < n; j++){
             prefix[j] += prefix[j - 1];
-            ans &= (prefix[j] >= maxVal);
+            ans &= (prefix[j] >= nums[j]);
         }
         return ans;
     }
@@ -19,12 +20,11 @@ public:
         int maxVal = *max_element(nums.begin(), nums.end());
         if(maxVal == 0)
             return 0;
-        int n = nums.size();
         int start = 1, end = queries.size();
         int ans = -1;
         while(start <= end){
             int mid = start + (end - start) / 2;
-            if(bs(n, maxVal, queries, mid)){
+            if(bs(nums, queries, mid)){
                 ans = mid;
                 end = mid - 1;
             }
