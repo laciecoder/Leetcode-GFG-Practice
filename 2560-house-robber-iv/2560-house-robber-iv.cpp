@@ -16,17 +16,15 @@ public:
             start = min(start, num);
             end = max(end, num);
         }
-        int ans = 0;
-        while(start <= end){
+        while(start < end){
             int mid = start + (end - start) / 2;
             if(check(nums, k, mid)){
-                ans = mid;
-                end = mid - 1;
+                end = mid;
             }
             else{
                 start = mid + 1;
             }
         }
-        return ans;
+        return start;
     }
 };
