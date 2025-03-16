@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool check(vector<int>& ranks, long long cars, long long mid){
-        int count = 0;
+        long long count = 0;
         for(long long rank: ranks){
             long long temp = sqrt(mid / rank);
             count += temp;
@@ -9,8 +9,7 @@ public:
         return count >= cars;
     }
     long long repairCars(vector<int>& ranks, int cars) {
-        long long maxi = *min_element(ranks.begin(), ranks.end());
-        long long start = 1, end = maxi * cars * cars;
+        long long start = 1, end = 1LL * ranks[0] * cars * cars;
         long long ans = 0;
         while(start <= end){
             long long mid = start + (end - start) / 2;
