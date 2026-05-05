@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0061-rotate-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -25,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
