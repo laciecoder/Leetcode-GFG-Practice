@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0061-rotate-list/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
