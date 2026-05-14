@@ -1,12 +1,21 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int n = nums.size();
-        for(int i = 0; i < n - 1; i++){
-            if(nums[i] != i + 1)
+        int n = nums.size() - 1;
+        bool duplicate = false;
+        for(int& num: nums){
+
+            int val = abs(num);
+            if(val > n)
                 return false;
+            if(nums[val - 1] < 0){
+                if(val < n || duplicate)
+                    return false;
+                duplicate |= 1;
+                continue;
+            }
+            nums[val - 1] = -nums[val - 1];
         }
-        return nums.back() == n - 1;
+        return true;
     }
 };
