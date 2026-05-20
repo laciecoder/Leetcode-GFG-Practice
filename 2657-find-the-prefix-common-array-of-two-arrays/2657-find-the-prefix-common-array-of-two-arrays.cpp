@@ -1,21 +1,15 @@
 class Solution {
 public:
-    vector<int> findThePrefixCommonArray(vector<int>& arr, vector<int>& brr) {
-        int n = arr.size();
-        vector<int> ans(n);
-
-        set<int> a, b;
-
-        vector<int> temp;
-
+    vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
+        int curr = 0, n = A.size();
+        vector<int> res(n),  seen(n + 1);
         for(int i = 0; i < n; i++){
-            a.insert(arr[i]);
-            b.insert(brr[i]);
-            temp.clear();
-            set_intersection(a.begin(), a.end(), b.begin(), b.end(), back_inserter(temp));
-            ans[i] = temp.size();
+            if(++seen[A[i]] == 2)
+                curr++;
+            if(++seen[B[i]] == 2)
+                curr++;
+            res[i] = curr;
         }
-
-        return ans;
+        return res;
     }
 };
