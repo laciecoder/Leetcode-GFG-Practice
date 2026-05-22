@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2540-minimum-common-value/) | Easy |
