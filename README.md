@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1345-jump-game-iv](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -113,4 +115,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
