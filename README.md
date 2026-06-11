@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1306-jump-game-iii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
