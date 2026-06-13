@@ -34,7 +34,7 @@ public:
         while((1 << log) <= n){
             log++;
         }
-        vector<vector<int>> lca(n, vector<int>(log));
+        vector<vector<int>> lca(n, vector<int>(log, -1));
         for(int i = 0; i < n; i++){
             lca[i][0] = parent[i];
         }
