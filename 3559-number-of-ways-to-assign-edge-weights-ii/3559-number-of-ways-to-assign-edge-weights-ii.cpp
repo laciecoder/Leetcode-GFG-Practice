@@ -65,7 +65,7 @@ public:
             }
             else{
                 for(int b = log - 1; b >= 0; b--){
-                    if(lca[u][b] != lca[v][b]){
+                    if(lca[u][b] != -1 && lca[u][b] != lca[v][b]){
                         u = lca[u][b];
                         v = lca[v][b];
                     }
