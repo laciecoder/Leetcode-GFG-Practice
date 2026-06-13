@@ -29,7 +29,7 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }   
-        dfs(0, adj, depth, 0, 0, parent);
+        dfs(0, adj, depth, 0, -1, parent);
         int log = 0;
         while((1 << log) <= n){
             log++;
@@ -40,7 +40,8 @@ public:
         }
         for(int i = 1; i < log; i++){
             for(int j = 0; j < n; j++){
-                lca[j][i] = lca[lca[j][i - 1]][i - 1];
+                if(lca[j][i - 1] != -1)
+                    lca[j][i] = lca[lca[j][i - 1]][i - 1];
             }
         }
         for(int i = 0; i < k; i++){
@@ -54,7 +55,7 @@ public:
             for(int b = 0; b < log; b++){
                 if(d & (1 << b)){
                     u = lca[u][b];
-                    if(u == 0)
+                    if(u == -1)
                         break;
                 }
             }
