@@ -21,10 +21,10 @@ public:
                 len++;
             }
             else if (s[i] == '#'){
-                if(k >= ((len + 1) / 2)){
+                if(k >= (len / 2)){
                     k -= len / 2;
                 }
-                len = (len + 1) / 2;
+                len = len / 2;
             }
             else if (s[i] == '%'){
                 // imp part i didnt get first
