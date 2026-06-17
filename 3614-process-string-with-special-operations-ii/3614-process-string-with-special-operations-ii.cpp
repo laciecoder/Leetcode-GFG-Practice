@@ -13,7 +13,7 @@ public:
                 len++;
             }
         }
-        if(k + 1 > len){
+        if(k >= len){
             return '.';
         }
         for(int i = s.size() - 1; i >= 0; i--){
@@ -21,7 +21,7 @@ public:
                 len++;
             }
             else if (s[i] == '#'){
-                if(k + 1 > ((len + 1) / 2)){
+                if(k >= ((len + 1) / 2)){
                     k -= len / 2;
                 }
                 len = (len + 1) / 2;
@@ -31,7 +31,7 @@ public:
                 k = len - k - 1;
             }
             else{
-                if(k + 1 == len){
+                if(k == len - 1){
                     return s[i];
                 }
                 else{
