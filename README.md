@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2553-separate-the-digits-in-an-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
