@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
