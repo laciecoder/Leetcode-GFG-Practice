@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2574-left-and-right-sum-differences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2540-minimum-common-value](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
