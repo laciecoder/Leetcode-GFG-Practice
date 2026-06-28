@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1732-find-the-highest-altitude](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
