@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2812-find-the-safest-path-in-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1306-jump-game-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1345-jump-game-iv/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -245,4 +249,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
