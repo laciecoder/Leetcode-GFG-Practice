@@ -32,7 +32,7 @@ public:
         n = grid[0].size();
         m = grid.size();
         vector<vector<int>> visited(m, vector<int>(n));
-        queue<tuple<int, int, int>> q; // health, i, j
+        priority_queue<tuple<int, int, int>> q; // health, i, j
         if(grid[0][0])
             health--;
         if(health == 0)
@@ -40,7 +40,7 @@ public:
         q.push({health, 0, 0});
         visited[0][0] = health;
         while(!q.empty()){
-            auto [h, i, j] = q.front();
+            auto [h, i, j] = q.top();
             q.pop();
             for(int k = 0; k < 4; k++){
                 int ni = i + dir[k], nj = j + dir[k + 1];
