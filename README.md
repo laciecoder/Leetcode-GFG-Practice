@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
