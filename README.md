@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -279,4 +282,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
