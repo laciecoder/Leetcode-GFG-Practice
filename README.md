@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1071-greatest-common-divisor-of-strings](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
