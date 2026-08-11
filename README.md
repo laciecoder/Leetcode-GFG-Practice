@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2540-minimum-common-value](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3731-find-missing-elements/) | Easy |
