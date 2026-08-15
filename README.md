@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
