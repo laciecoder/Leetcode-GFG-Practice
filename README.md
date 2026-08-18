@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
