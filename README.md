@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1306-jump-game-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1189-maximum-number-of-balloons](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
