@@ -3,6 +3,7 @@ public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
         long long ans = n * 2;
         unordered_map<int, int> mp;
+        mp.reserve(reservedSeats.size() * 2);
         for(auto rs: reservedSeats){
             int row = rs[0], col = rs[1];
             
