@@ -10,7 +10,7 @@ public:
         }
         int twofivemask = 0b0000111100;
         int foursevenmask = 0b0011110000;
-        int sixninemask = 0b1111000000;
+        int sixninemask = 0b01111000000;
         for(auto [_, row]: mp){
             ans -= 2;
             
