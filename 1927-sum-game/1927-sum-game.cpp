@@ -19,11 +19,11 @@ public:
             }
             start++, end--;
         }
-        if(lq + rq == 0)
+        if(lq == rq)
             return lsum != rsum;
         if ((lq + rq) & 1)  
             return true;
-
+        
         int diff = lsum - rsum;
         int qdiff = rq - lq;
         return diff != 9 * (qdiff) / 2;
