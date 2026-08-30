@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1833-maximum-ice-cream-bars](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
