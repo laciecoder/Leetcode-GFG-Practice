@@ -19,6 +19,6 @@ public:
         int a = minPos + 1 + n - maxPos;
         int b = maxPos + 1; //n - (n - maxPos - 1)
         int c = n - minPos;
-        return min({a, b, c});
+        return min(a, min(b, c));
     }
 };
