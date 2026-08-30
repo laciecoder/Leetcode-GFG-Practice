@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0367-valid-perfect-square](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -321,5 +323,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
