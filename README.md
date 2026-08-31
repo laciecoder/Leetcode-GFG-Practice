@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
