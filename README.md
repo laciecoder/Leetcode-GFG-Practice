@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3726-remove-zeros-in-decimal-representation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3737-count-subarrays-with-majority-element-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
