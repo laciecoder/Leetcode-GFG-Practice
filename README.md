@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0367-valid-perfect-square/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0074-search-a-2d-matrix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1288-remove-covered-intervals/) | Medium |
