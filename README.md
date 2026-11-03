@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3870-count-commas-in-range/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
