@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
