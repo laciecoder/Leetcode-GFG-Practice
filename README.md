@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0367-valid-perfect-square/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0061-rotate-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
