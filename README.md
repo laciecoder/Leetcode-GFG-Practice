@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0115-distinct-subsequences/) | Hard |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
