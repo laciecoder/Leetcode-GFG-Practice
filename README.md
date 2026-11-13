@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0070-climbing-stairs](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -401,4 +403,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0022-generate-parentheses/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
