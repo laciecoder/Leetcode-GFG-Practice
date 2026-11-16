@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- | ------- |
 | [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
