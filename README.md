@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2196-create-binary-tree-from-descriptions](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
