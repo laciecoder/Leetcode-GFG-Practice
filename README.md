@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1025-divisor-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1306-jump-game-iii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1871-jump-game-vii/) | Medium |
@@ -420,4 +423,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0070-climbing-stairs/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
