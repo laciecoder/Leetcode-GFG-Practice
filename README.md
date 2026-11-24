@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1291-sequential-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Tree
@@ -359,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/0258-add-digits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
