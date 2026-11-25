@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3876-construct-uniform-parity-array-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3731-find-missing-elements](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,4 +439,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
