@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1927-sum-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/1927-sum-game/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2243-calculate-digit-sum-of-a-string](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/laciecoder/Leetcode-GFG-Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
